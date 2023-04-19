@@ -9,7 +9,7 @@
 # 大学物理（上册）笔记
 原稿是彭康学导团组织编写的《大学物理（上册）》笔记，供学习、交流使用。
 
-###/*这是一次学导团的年度修订，本人计划添加一部分内容*/
+/**这是一次学导团的年度修订，本人计划添加一部分大学物理I的内容**/
 
 其中 `figures` 文件夹（因体积过大未上传至此项目）以百度网盘的形式分享：
 链接：https://pan.baidu.com/s/18SRD1nXy_jHLyj1dAN12ng 
@@ -18,9 +18,6 @@
 
 ElegantBook 是为 LaTeX 书籍写作而设计的模板，由 [Dongsheng Deng](https://ddswhu.me/) 和 [Liam Huang](https://liam.page/) 创立，模板创立的初衷是方便我们自己做笔记 :smile:。如果你有其他问题、建议或者报告 bug，可以提交 issues 或者给我们发邮件：elegantlatex2e@gmail.com。QQ 用户交流群：692108391，欢迎加入。
 
-## 重要提示
-
-**重要提示**：ElegantLaTeX 项目 **不接受** 任何非预授权的提交（pull requests）！
 
 ## 致谢
 
