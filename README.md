@@ -11,7 +11,7 @@
 
 **_这是一次学导团的年度修订，本人计划添加一部分大学物理I的内容_**
 
-其中 `figures` 文件夹（因体积过大未上传至此项目）以百度网盘的形式分享：
+`figures`文件夹以百度网盘的形式分享：
 链接：https://pan.baidu.com/s/18SRD1nXy_jHLyj1dAN12ng 
 提取码：PKZY
 # ElegantBook 优美的 LaTeX 书籍模板
